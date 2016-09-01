@@ -1,7 +1,7 @@
 ---
 title: Test Page
 date: 2016-09-01 06:02:00 Z
-layout: default
+layout: page
 ---
 
 Yes, this site is supposed to look like this.
