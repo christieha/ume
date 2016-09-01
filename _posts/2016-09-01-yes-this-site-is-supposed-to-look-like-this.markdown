@@ -3,6 +3,7 @@ title: Yes, this site is supposed to look like this
 date: 2016-09-01 06:17:00 Z
 categories:
 - process
+layout: post
 ---
 
 As humans, as companies, we're all works in progress.
