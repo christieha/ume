@@ -1,5 +1,5 @@
 ---
-title: UME
+title: Christie Ha | Art Director and Designer
 timezone: UTC
 collections:
   posts:
@@ -9,11 +9,9 @@ collections:
     title: Uploads
     output: true
 email: christieha@gmail.com
-description: We are UME. We are a design firm. We use design to create balance in
-  the world by connecting mission-driven companies, women and girls through branding,
-  workshops and philanthropy.
+description: Hello
 baseurl: 
-url: http://ume.design
+url: christieha.com
 twitter_username: 
 github_username: christieha
 markdown: kramdown
